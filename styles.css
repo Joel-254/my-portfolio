@@ -1,0 +1,42 @@
+h1{
+  color:red;
+  text-align: center;
+  font-style: italic;
+  background-color: green;
+}
+h2{
+  color: white;
+  text-align: left;
+  font-family: cursive;
+  background-color: maroon;
+}
+body{
+  background-color: yellow;
+}
+.intro{
+  color: purple;
+}
+#line2{
+  font-size: 20px
+}
+.important{
+  font-family: sans-serif;
+}
+.unimportant{
+  font-style: oblique;
+}
+img{
+  float: left;
+}
+.test-box{
+  border: 3px solid green;
+  padding: 5px;
+  margin: 25px;
+  background-color: teal;
+}
+.Diploma{
+  color: #494242;
+}
+.sidebar{
+  float: right;
+}
